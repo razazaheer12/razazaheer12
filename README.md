@@ -14,7 +14,7 @@
 
 </div>
 
-# 👋 About Me
+## 👋 About Me
 
 I'm a Front-End Web Developer with 2+ years of freelance experience in **React.js**, **Next.js**, and **JavaScript (ES6+)**, now expanding into full-stack and AI-integrated development. I've independently architected and deployed two end-to-end production systems — a real-time MERN chat platform with **Socket.io**, and a **RAG chatbot** powered by Pinecone and LLM streaming.
 
@@ -25,7 +25,7 @@ I'm a Front-End Web Developer with 2+ years of freelance experience in **React.j
 
 <br/>
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <table align="center">
 <tr>
@@ -74,7 +74,7 @@ Tools & Deployment
 
 <br/>
 
-### 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table align="center" width="100%">
 <tr>
@@ -116,13 +116,15 @@ Multi-category MCQ platform with dynamic rendering and real-time score tracking 
 
 <br/>
 
+## 📊 GitHub Stats
+
 <div align="center">
 <img height="165" src="https://github-readme-stats.shion.dev/api?username=razazaheer12&show_icons=true&hide_border=true&bg_color=050816&title_color=8b5cf6&icon_color=ec4899&text_color=e2e8f0&ring_color=6366f1"/>
 <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=razazaheer12&layout=compact&hide_border=true&bg_color=050816&title_color=8b5cf6&text_color=e2e8f0&langs_count=8"/>
 <img src="https://streak-stats.demolab.com?user=razazaheer12&hide_border=true&background=050816&stroke=6366f1&ring=ec4899&fire=ec4899&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b5cf6&sideLabels=e2e8f0&dates=94a3b8"/>
 </div>
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/razazaheer12/razazaheer12/output/github-contribution-grid-snake-dark.svg"/>
@@ -132,7 +134,7 @@ Multi-category MCQ platform with dynamic rendering and real-time score tracking 
 
 <br/>
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 

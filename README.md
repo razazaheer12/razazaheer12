@@ -117,13 +117,6 @@ Multi-category MCQ platform with dynamic rendering and real-time score tracking 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razazaheer12&layout=compact&hide_border=true&bg_color=050816&title_color=8b5cf6&text_color=e2e8f0&langs_count=8"/>
 <img src="https://streak-stats.demolab.com?user=razazaheer12&hide_border=true&background=050816&stroke=6366f1&ring=ec4899&fire=ec4899&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b5cf6&sideLabels=e2e8f0&dates=94a3b8"/>
 </div>
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=razazaheer12&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-</div>
-</details>
-<br/>
 
 ### 🐍 Contribution Snake
 

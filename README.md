@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:6366f1,100:ec4899&height=200&section=header&text=Raza%20Zaheer&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20%26%20AI-Integrated%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:6366f1,100:ec4899&height=200&section=header&text=Raza%20Zaheer&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20and%20AI-Integrated%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://raza-zaheer-portfolio-web-developer.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+React.js+%2F+Next.js;Building+Real-Time+MERN+Systems;Shipping+RAG+%2F+LLM-Powered+Apps;Open+to+Junior+Frontend+Roles+in+Karachi" alt="Typing SVG" />

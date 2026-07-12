@@ -113,18 +113,11 @@ Multi-category MCQ platform with dynamic rendering and real-time score tracking 
 
 <br/>
 
-📊 GitHub Stats
-
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=razazaheer12&show_icons=true&hide_border=true&bg_color=050816&title_color=8b5cf6&icon_color=ec4899&text_color=e2e8f0&ring_color=6366f1"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razazaheer12&layout=compact&hide_border=true&bg_color=050816&title_color=8b5cf6&text_color=e2e8f0&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=razazaheer12&show_icons=true&hide_border=true&bg_color=050816&title_color=8b5cf6&icon_color=ec4899&text_color=e2e8f0&ring_color=6366f1"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=razazaheer12&layout=compact&hide_border=true&bg_color=050816&title_color=8b5cf6&text_color=e2e8f0&langs_count=8"/>
 <img src="https://streak-stats.demolab.com?user=razazaheer12&hide_border=true&background=050816&stroke=6366f1&ring=ec4899&fire=ec4899&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b5cf6&sideLabels=e2e8f0&dates=94a3b8"/>
 </div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=razazaheer12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=razazaheer12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=razazaheer12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🐍 Contribution Snake
 

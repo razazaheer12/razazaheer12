@@ -74,7 +74,7 @@ Tools & Deployment
 
 <br/>
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table align="center" width="100%">
 <tr>

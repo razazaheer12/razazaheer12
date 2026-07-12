@@ -33,6 +33,8 @@ I'm a Front-End Web Developer with 2+ years of freelance experience in **React.j
 
 Frontend
 
+<img src="https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-050816?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/React-050816?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-050816?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-050816?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
@@ -40,7 +42,7 @@ Frontend
 <img src="https://img.shields.io/badge/Tailwind_CSS-050816?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
 <img src="https://img.shields.io/badge/Bootstrap-050816?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
 
-**Backend & Database**
+Backend & Database
 
 <img src="https://img.shields.io/badge/Node.js-050816?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
 <img src="https://img.shields.io/badge/Express.js-050816?style=for-the-badge&logo=express&logoColor=white"/>
@@ -48,22 +50,23 @@ Frontend
 <img src="https://img.shields.io/badge/MongoDB-050816?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
 <img src="https://img.shields.io/badge/PostgreSQL-050816?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/MySQL-050816?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-
+<img src="https://img.shields.io/badge/JWT-050816?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </td>
 <td valign="top" width="50%">
-
-**Real-Time & AI**
+  
+Real-Time & AI
 
 <img src="https://img.shields.io/badge/Socket.io-050816?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-050816?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
 <img src="https://img.shields.io/badge/Pinecone-050816?style=for-the-badge&logo=pinecone&logoColor=white"/>
 
-**Tools & Deployment**
+Tools & Deployment
 
 <img src="https://img.shields.io/badge/Git-050816?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-050816?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/Vercel-050816?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-050816?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
 
 </td>
 </tr>

@@ -121,6 +121,11 @@ Multi-category MCQ platform with dynamic rendering and real-time score tracking 
 <img src="https://streak-stats.demolab.com?user=razazaheer12&hide_border=true&background=050816&stroke=6366f1&ring=ec4899&fire=ec4899&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b5cf6&sideLabels=e2e8f0&dates=94a3b8"/>
 </div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=razazaheer12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=razazaheer12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=razazaheer12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ### 🐍 Contribution Snake
 
 <div align="center">

@@ -80,7 +80,7 @@ Full-stack MERN chat platform — JWT auth, multi-room channels, live presence &
 
 `React` `Node.js` `Socket.io` `MongoDB`
 
-[GitHub](https://github.com/razazaheer12) · Live Demo
+[GitHub](https://github.com/razazaheer12/Real-Time-Chat_App) · [Live Demo](https://real-time-chat-app-pi-lake.vercel.app/)
 
 </td>
 <td width="33%" valign="top">
@@ -91,7 +91,7 @@ AI chatbot with full RAG pipeline — PDF chunking, embeddings in Pinecone, Lang
 
 `NestJS` `Pinecone` `LangChain` `TypeScript`
 
-[GitHub](https://github.com/razazaheer12)
+[GitHub](https://github.com/razazaheer12/Pdf-RAG-Chatbot)
 
 </td>
 <td width="33%" valign="top">
@@ -102,7 +102,7 @@ Multi-category MCQ platform with dynamic rendering and real-time score tracking 
 
 `Next.js` `React` `JavaScript`
 
-Live Demo
+[GitHub](https://github.com/razazaheer12/Quizlett--advanced-mcq-quiz) · [Live Demo](https://advanced-mcq-quiz.vercel.app/)
 
 </td>
 </tr>

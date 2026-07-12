@@ -31,13 +31,14 @@ I'm a Front-End Web Developer with 2+ years of freelance experience in **React.j
 <tr>
 <td valign="top" width="50%">
 
-**Frontend**
+Frontend
 
 <img src="https://img.shields.io/badge/React-050816?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-050816?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-050816?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
 <img src="https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-050816?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Bootstrap-050816?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
 
 **Backend & Database**
 

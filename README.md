@@ -1,18 +1,157 @@
-# 💫 About Me:
-I build scalable, high-performance web applications using React, Next.js and TypeScript.<br><br>My recent work includes real-time applications, AI-powered RAG systems, REST APIs and modern frontend architecture.<br><br>I enjoy transforming ideas into beautiful digital products that balance performance, clean architecture and user experience.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:6366f1,100:ec4899&height=200&section=header&text=Raza%20Zaheer&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20%26%20AI-Integrated%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raza_zaheer_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raza-zaheer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:razazaheer2002@gmail.com) 
+<a href="https://raza-zaheer-portfolio-web-developer.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+React.js+%2F+Next.js;Building+Real-Time+MERN+Systems;Shipping+RAG+%2F+LLM-Powered+Apps;Open+to+Junior+Frontend+Roles+in+Karachi" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=razazaheer12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=razazaheer12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=razazaheer12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <img src="https://img.shields.io/badge/📍-Karachi,_Pakistan-050816?style=for-the-badge&labelColor=6366f1"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-050816?style=for-the-badge&labelColor=ec4899"/>
+  <a href="https://raza-zaheer-portfolio-web-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-050816?style=for-the-badge&labelColor=8b5cf6"/></a>
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=razazaheer12&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👋 About Me
+
+I'm a Front-End Web Developer with 2+ years of freelance experience in **React.js**, **Next.js**, and **JavaScript (ES6+)**, now expanding into full-stack and AI-integrated development. I've independently architected and deployed two end-to-end production systems — a real-time MERN chat platform with **Socket.io**, and a **RAG chatbot** powered by Pinecone and LLM streaming.
+
+- 🔭 Currently building and refining production-grade full-stack + AI projects
+- 🌱 Sharpening full-stack MERN, authentication patterns, and DSA fundamentals
+- 💼 Actively looking for **Junior Frontend Developer** roles at software houses in Karachi
+- ⚡ Fun fact: I ship fast — 100% on-time delivery across every freelance project
+
+<br/>
+
+### 🛠️ Tech Stack
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-050816?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-050816?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-050816?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-050816?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+
+**Backend & Database**
+
+<img src="https://img.shields.io/badge/Node.js-050816?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express.js-050816?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-050816?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
+<img src="https://img.shields.io/badge/MongoDB-050816?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+
+</td>
+<td valign="top" width="50%">
+
+**Real-Time & AI**
+
+<img src="https://img.shields.io/badge/Socket.io-050816?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-050816?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
+<img src="https://img.shields.io/badge/Pinecone-050816?style=for-the-badge&logo=pinecone&logoColor=white"/>
+
+**Tools & Deployment**
+
+<img src="https://img.shields.io/badge/Git-050816?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-050816?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Vercel-050816?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🚀 Featured Projects
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**💬 Real-Time Chat App**
+
+Full-stack MERN chat platform — JWT auth, multi-room channels, live presence & typing indicators, Cloudinary uploads. Split deployment: Vercel + Dockerized backend.
+
+`React` `Node.js` `Socket.io` `MongoDB`
+
+[GitHub](https://github.com/razazaheer12) · Live Demo
+
+</td>
+<td width="33%" valign="top">
+
+**🤖 PDF RAG Chatbot**
+
+AI chatbot with full RAG pipeline — PDF chunking, embeddings in Pinecone, LangChain orchestration, SSE streaming to a Next.js frontend.
+
+`NestJS` `Pinecone` `LangChain` `TypeScript`
+
+[GitHub](https://github.com/razazaheer12)
+
+</td>
+<td width="33%" valign="top">
+
+**📝 Quiz Web App**
+
+Multi-category MCQ platform with dynamic rendering and real-time score tracking — 30% boost in session engagement.
+
+`Next.js` `React` `JavaScript`
+
+Live Demo
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=razazaheer12&show_icons=true&hide_border=true&bg_color=050816&title_color=8b5cf6&icon_color=ec4899&text_color=e2e8f0&ring_color=6366f1"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razazaheer12&layout=compact&hide_border=true&bg_color=050816&title_color=8b5cf6&text_color=e2e8f0&langs_count=8"/>
+
+<img src="https://streak-stats.demolab.com?user=razazaheer12&hide_border=true&background=050816&stroke=6366f1&ring=ec4899&fire=ec4899&currStreakLabel=8b5cf6&sideLabels=e2e8f0&dates=64748b"/>
+
+</div>
+
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=razazaheer12&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+</div>
+</details>
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/razazaheer12/razazaheer12/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+> Setup instructions for this are below — it needs one GitHub Action, doesn't work out of the box.
+
+<br/>
+
+### 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/razazaheer/"><img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="mailto:razazaheer2002@gmail.com"><img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://raza-zaheer-portfolio-web-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=razazaheer12&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:6366f1,100:ec4899&height=100&section=footer" width="100%"/>

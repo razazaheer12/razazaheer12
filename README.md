@@ -46,6 +46,8 @@ Frontend
 <img src="https://img.shields.io/badge/Express.js-050816?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-050816?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
 <img src="https://img.shields.io/badge/MongoDB-050816?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/PostgreSQL-050816?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/MySQL-050816?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 
 </td>
 <td valign="top" width="50%">

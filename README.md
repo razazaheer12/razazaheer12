@@ -14,7 +14,7 @@
 
 </div>
 
-### 👋 About Me
+# 👋 About Me
 
 I'm a Front-End Web Developer with 2+ years of freelance experience in **React.js**, **Next.js**, and **JavaScript (ES6+)**, now expanding into full-stack and AI-integrated development. I've independently architected and deployed two end-to-end production systems — a real-time MERN chat platform with **Socket.io**, and a **RAG chatbot** powered by Pinecone and LLM streaming.
 
@@ -25,7 +25,7 @@ I'm a Front-End Web Developer with 2+ years of freelance experience in **React.j
 
 <br/>
 
-### 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <table align="center">
 <tr>

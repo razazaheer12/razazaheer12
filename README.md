@@ -23,7 +23,17 @@ I'm a Front-End Web Developer with 2+ years of freelance experience in **React.j
 - 💼 Actively looking for **Junior Frontend Developer** roles at software houses in Karachi
 - ⚡ Fun fact: I ship fast — 100% on-time delivery across every freelance project
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/📈_Engagement_Boost-35%25-050816?style=for-the-badge&labelColor=6366f1&color=050816"/>
+<img src="https://img.shields.io/badge/⏱️_On--Time_Delivery-100%25-050816?style=for-the-badge&labelColor=8b5cf6&color=050816"/>
+<img src="https://img.shields.io/badge/🎯_Session_Engagement-%2B30%25-050816?style=for-the-badge&labelColor=ec4899&color=050816"/>
+
+</div>
+
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:6366f1,100:ec4899&height=3&section=header" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -74,6 +84,8 @@ Tools & Deployment
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:6366f1,100:ec4899&height=3&section=header" width="100%"/>
+
 ## 🚀 Featured Projects
 
 <table align="center" width="100%">
@@ -84,7 +96,7 @@ Tools & Deployment
 
 Full-stack MERN chat platform — JWT auth, multi-room channels, live presence & typing indicators, Cloudinary uploads. Split deployment: Vercel + Dockerized backend.
 
-`React` `Node.js` `Socket.io` `MongoDB`
+![React](https://img.shields.io/badge/-React-050816?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-050816?style=flat-square&logo=nodedotjs&logoColor=339933) ![Socket.io](https://img.shields.io/badge/-Socket.io-050816?style=flat-square&logo=socketdotio&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-050816?style=flat-square&logo=mongodb&logoColor=47A248)
 
 [GitHub](https://github.com/razazaheer12/Real-Time-Chat_App) · [Live Demo](https://real-time-chat-app-pi-lake.vercel.app/)
 
@@ -95,7 +107,7 @@ Full-stack MERN chat platform — JWT auth, multi-room channels, live presence &
 
 AI chatbot with full RAG pipeline — PDF chunking, embeddings in Pinecone, LangChain orchestration, SSE streaming to a Next.js frontend.
 
-`NestJS` `Pinecone` `LangChain` `TypeScript`
+![NestJS](https://img.shields.io/badge/-NestJS-050816?style=flat-square&logo=nestjs&logoColor=E0234E) ![Pinecone](https://img.shields.io/badge/-Pinecone-050816?style=flat-square&logo=pinecone&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-050816?style=flat-square&logo=langchain&logoColor=1C3C3C) ![TypeScript](https://img.shields.io/badge/-TypeScript-050816?style=flat-square&logo=typescript&logoColor=3178C6)
 
 [GitHub](https://github.com/razazaheer12/Pdf-RAG-Chatbot)
 
@@ -106,7 +118,7 @@ AI chatbot with full RAG pipeline — PDF chunking, embeddings in Pinecone, Lang
 
 Multi-category MCQ platform with dynamic rendering and real-time score tracking — 30% boost in session engagement.
 
-`Next.js` `React` `JavaScript`
+![Next.js](https://img.shields.io/badge/-Next.js-050816?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-050816?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/-JavaScript-050816?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 [GitHub](https://github.com/razazaheer12/Quizlett--advanced-mcq-quiz) · [Live Demo](https://advanced-mcq-quiz.vercel.app/)
 
@@ -115,6 +127,8 @@ Multi-category MCQ platform with dynamic rendering and real-time score tracking 
 </table>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:6366f1,100:ec4899&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -134,6 +148,14 @@ Multi-category MCQ platform with dynamic rendering and real-time score tracking 
 > Setup instructions for this are below — it needs one GitHub Action, doesn't work out of the box.
 
 <br/>
+
+<br/>
+
+<div align="center">
+
+**Thanks for stopping by — always open to a chat about frontend, MERN, or AI-integrated builds.**
+
+</div>
 
 ## 🤝 Connect With Me
 

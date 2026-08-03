@@ -16,8 +16,8 @@
 
 ## 👋 About Me
 
-I'm a Front-End Web Developer with 2+ years of freelance experience in **React.js**, **Next.js**, and **JavaScript (ES6+)**, now expanding into full-stack and AI-integrated development. I've independently architected and deployed two end-to-end production systems — a real-time MERN chat platform with **Socket.io**, and a **RAG chatbot** powered by Pinecone and LLM streaming.
-
+I'm a Front-End Web Developer with 2+ years of freelance experience in **React.js**, **Next.js**, and **JavaScript (ES6+)**, now expanding into full-stack and AI-integrated development. I've independently architected and deployed 3+ end-to-end production systems — a **role-based real-time analytics dashboard** with RBAC-enforced REST/WebSocket layers, a real-time MERN chat platform with **Socket.io**, and a **RAG chatbot** powered by Pinecone and LLM streaming.
+ 
 - 🔭 Currently building and refining production-grade full-stack + AI projects
 - 🌱 Sharpening full-stack MERN, authentication patterns, and DSA fundamentals
 - 💼 Actively looking for **Junior Frontend Developer** roles at software houses in Karachi
@@ -42,7 +42,7 @@ I'm a Front-End Web Developer with 2+ years of freelance experience in **React.j
 <td valign="top" width="50%">
 
 Frontend
-
+ 
 <img src="https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-050816?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/React-050816?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -52,8 +52,9 @@ Frontend
 <img src="https://img.shields.io/badge/Tailwind_CSS-050816?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
 <img src="https://img.shields.io/badge/Bootstrap-050816?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
 
-Backend & Database
 
+Backend & Database
+ 
 <img src="https://img.shields.io/badge/Node.js-050816?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
 <img src="https://img.shields.io/badge/Express.js-050816?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-050816?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
@@ -61,22 +62,27 @@ Backend & Database
 <img src="https://img.shields.io/badge/PostgreSQL-050816?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/MySQL-050816?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/JWT-050816?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-050816?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
 </td>
 <td valign="top" width="50%">
   
 Real-Time & AI
-
+ 
 <img src="https://img.shields.io/badge/Socket.io-050816?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-050816?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
 <img src="https://img.shields.io/badge/Pinecone-050816?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-050816?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+
 
 Tools & Deployment
-
+ 
 <img src="https://img.shields.io/badge/Git-050816?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-050816?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/Vercel-050816?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Netlify-050816?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
+<img src="https://img.shields.io/badge/Postman-050816?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Render-050816?style=for-the-badge&logo=render&logoColor=46E3B7"/>
 
 </td>
 </tr>
@@ -90,37 +96,62 @@ Tools & Deployment
 
 <table align="center" width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-**💬 Real-Time Chat App**
+<h3>📊 Real-Time Analytics Dashboard</h3>
 
-Full-stack MERN chat platform — JWT auth, multi-room channels, live presence & typing indicators, Cloudinary uploads. Split deployment: Vercel + Dockerized backend.
+Full-stack role-based analytics platform (Admin/Analyst/Viewer) with JWT auth and backend-enforced RBAC guards across REST and WebSocket layers. Live metrics stream via Socket.io into Recharts, with dynamic filtering, CSV/PDF export, and full user-management CRUD.
 
-![React](https://img.shields.io/badge/-React-050816?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-050816?style=flat-square&logo=nodedotjs&logoColor=339933) ![Socket.io](https://img.shields.io/badge/-Socket.io-050816?style=flat-square&logo=socketdotio&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-050816?style=flat-square&logo=mongodb&logoColor=47A248)
+<br/>
 
-[GitHub](https://github.com/razazaheer12/Real-Time-Chat_App) · [Live Demo](https://real-time-chat-app-pi-lake.vercel.app/)
+![Next.js](https://img.shields.io/badge/-Next.js-050816?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-050816?style=flat-square&logo=nestjs&logoColor=E0234E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-050816?style=flat-square&logo=typescript&logoColor=3178C6)
+![Prisma](https://img.shields.io/badge/-Prisma-050816?style=flat-square&logo=prisma&logoColor=2D3748)
+![Socket.io](https://img.shields.io/badge/-Socket.io-050816?style=flat-square&logo=socketdotio&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-050816?style=flat-square&logo=supabase&logoColor=3ECF8E)
 
-</td>
-<td width="33%" valign="top">
+<br/>
 
-**🤖 PDF RAG Chatbot**
-
-AI chatbot with full RAG pipeline — PDF chunking, embeddings in Pinecone, LangChain orchestration, SSE streaming to a Next.js frontend.
-
-![NestJS](https://img.shields.io/badge/-NestJS-050816?style=flat-square&logo=nestjs&logoColor=E0234E) ![Pinecone](https://img.shields.io/badge/-Pinecone-050816?style=flat-square&logo=pinecone&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-050816?style=flat-square&logo=langchain&logoColor=1C3C3C) ![TypeScript](https://img.shields.io/badge/-TypeScript-050816?style=flat-square&logo=typescript&logoColor=3178C6)
-
-[GitHub](https://github.com/razazaheer12/Pdf-RAG-Chatbot)
+**[🔗 View on GitHub](https://github.com/razazaheer12/Real-Time-Analytics-Dashboard)**
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-**📝 Quiz Web App**
+<h3>🤖 PDF RAG Chatbot</h3>
 
-Multi-category MCQ platform with dynamic rendering and real-time score tracking — 30% boost in session engagement.
+An intelligent chatbot that lets you upload any PDF and have a real conversation with it — powered by RAG (Retrieval-Augmented Generation), pipeline using Pinecone Vector database — featuring real-time streaming responses, dynamic switching between multiple LLM models, and context-aware answers.
 
-![Next.js](https://img.shields.io/badge/-Next.js-050816?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-050816?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/-JavaScript-050816?style=flat-square&logo=javascript&logoColor=F7DF1E)
+<br/>
 
-[GitHub](https://github.com/razazaheer12/Quizlett--advanced-mcq-quiz) · [Live Demo](https://advanced-mcq-quiz.vercel.app/)
+![Next.js](https://img.shields.io/badge/-Next.js-050816?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-050816?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Pinecone](https://img.shields.io/badge/-Pinecone-050816?style=flat-square&logo=pinecone&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-050816?style=flat-square&logo=langchain&logoColor=1C3C3C)
+![TypeScript](https://img.shields.io/badge/-TypeScript-050816?style=flat-square&logo=typescript&logoColor=3178C6)
+
+<br/>
+
+**[🔗 View on GitHub](https://github.com/razazaheer12/Pdf-RAG-Chatbot)**
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<h3>💬 Real-Time Chat App</h3>
+
+Real-Time Chat App is a modern, high-performance messaging platform that provides a WhatsApp Web-level real-time communication experience. Users can sign up, join topic-based rooms, send private direct messages, share images/files, track online status, and receive audio/browser notification alerts — all wrapped in a sleek, glassmorphism-inspired dark UI.
+
+<br/>
+
+![React](https://img.shields.io/badge/-React-050816?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-050816?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Socket.io](https://img.shields.io/badge/-Socket.io-050816?style=flat-square&logo=socketdotio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-050816?style=flat-square&logo=mongodb&logoColor=47A248)
+![JWT](https://img.shields.io/badge/JWT-050816?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+
+**[🔗 View on GitHub](https://github.com/razazaheer12/Real-Time-Chat_App)** 
+**[🚀 Live Demo](https://real-time-chat-app-pi-lake.vercel.app/)**
 
 </td>
 </tr>

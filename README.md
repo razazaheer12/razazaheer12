@@ -176,17 +176,6 @@ Real-Time Chat App is a modern, high-performance messaging platform that provide
 <img src="https://raw.githubusercontent.com/razazaheer12/razazaheer12/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
-> Setup instructions for this are below — it needs one GitHub Action, doesn't work out of the box.
-
-<br/>
-
-<br/>
-
-<div align="center">
-
-**Thanks for stopping by — always open to a chat about frontend, MERN, or AI-integrated builds.**
-
-</div>
 
 ## 🤝 Connect With Me
 

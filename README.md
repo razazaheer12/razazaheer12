@@ -185,7 +185,6 @@ Real-Time Chat App is a modern, high-performance messaging platform that provide
 <a href="mailto:razazaheer2002@gmail.com"><img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 <a href="https://raza-zaheer-portfolio-web-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=razazaheer12&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS"/>
 

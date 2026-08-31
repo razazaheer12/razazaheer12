@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:6366f1,100:ec4899&height=200&section=header&text=Raza%20Zaheer&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20and%20AI-Integrated%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://raza-zaheer-portfolio-web-developer.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+React.js+%2F+Next.js;Building+Real-Time+MERN+Systems;Shipping+RAG+%2F+LLM-Powered+Apps;Open+to+Junior+Frontend+Roles+in+Karachi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF66&center=true&vCenter=true&width=650&lines=Software+Engineer;Frontend+Developer+%7C+React.js+%2F+Next.js;Building+Real-Time+MERN+Systems;Shipping+RAG+%2F+LLM-Powered+Apps;Open+to+Junior+Frontend+Roles+in+Karachi" alt="Typing SVG" />
 </a>
 
 <p>
@@ -17,17 +17,25 @@
 ## 👋 About Me
 
 I'm a Front-End Web Developer with 2+ years of freelance experience in **React.js**, **Next.js**, and **JavaScript (ES6+)**, now expanding into full-stack and AI-integrated development. I've independently architected and deployed 3+ end-to-end production systems — a **role-based real-time analytics dashboard** with RBAC-enforced REST/WebSocket layers, a real-time MERN chat platform with **Socket.io**, and a **RAG chatbot** powered by Pinecone and LLM streaming.
- 
+
 - 🔭 Currently building and refining production-grade full-stack + AI projects
 - 🌱 Sharpening full-stack MERN, authentication patterns, and DSA fundamentals
 - 💼 Actively looking for **Junior Frontend Developer** roles at software houses in Karachi
 - ⚡ Fun fact: I ship fast — 100% on-time delivery across every freelance project
 
+<br/>
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/📈_Engagement_Boost-35%25-050816?style=for-the-badge&labelColor=6366f1&color=050816"/>
-<img src="https://img.shields.io/badge/⏱️_On--Time_Delivery-100%25-050816?style=for-the-badge&labelColor=8b5cf6&color=050816"/>
-<img src="https://img.shields.io/badge/🎯_Session_Engagement-%2B30%25-050816?style=for-the-badge&labelColor=ec4899&color=050816"/>
+  <img src="https://img.shields.io/badge/📈_Engagement_Boost-35%25-050816?style=for-the-badge&labelColor=6366f1&color=050816"/>
+  <img src="https://img.shields.io/badge/⏱️_On--Time_Delivery-100%25-050816?style=for-the-badge&labelColor=8b5cf6&color=050816"/>
+  <img src="https://img.shields.io/badge/🎯_Session_Engagement-%2B30%25-050816?style=for-the-badge&labelColor=ec4899&color=050816"/>
+
+<br/><br/>
+
+<a href="https://github.com/razazaheer12">
+<img alt="Coding Animation" width="450" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh6NWI3Y2lieXUyN3BiOHd0YmRqNjV0Z2tzaHJyYzQwcWx5bWx5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 12px;"/>
+</a>
 
 </div>
 
@@ -37,56 +45,54 @@ I'm a Front-End Web Developer with 2+ years of freelance experience in **React.j
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+### 🔤 Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-Frontend
- 
-<img src="https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-050816?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/React-050816?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-050816?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-050816?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-050816?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Bootstrap-050816?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+### 💻 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
+### ⚙️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
-Backend & Database
- 
-<img src="https://img.shields.io/badge/Node.js-050816?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Express.js-050816?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-050816?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
-<img src="https://img.shields.io/badge/MongoDB-050816?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/PostgreSQL-050816?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/MySQL-050816?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/JWT-050816?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-050816?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
-</td>
-<td valign="top" width="50%">
-  
-Real-Time & AI
- 
-<img src="https://img.shields.io/badge/Socket.io-050816?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-050816?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
-<img src="https://img.shields.io/badge/Pinecone-050816?style=for-the-badge&logo=pinecone&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face-050816?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+### ⚡ Real-Time & AI
+<p>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
-
-Tools & Deployment
- 
-<img src="https://img.shields.io/badge/Git-050816?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-050816?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Vercel-050816?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-050816?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
-<img src="https://img.shields.io/badge/Postman-050816?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/Render-050816?style=for-the-badge&logo=render&logoColor=46E3B7"/>
-
-</td>
-</tr>
-</table>
+### 🚀 DevOps, Tools & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 <br/>
 
@@ -94,68 +100,67 @@ Tools & Deployment
 
 ## 🚀 Featured Projects
 
-<table align="center" width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
-
-<h3>📊 Real-Time Analytics Dashboard</h3>
+### 📊 1. Real-Time Analytics Dashboard
 
 Full-stack role-based analytics platform (Admin/Analyst/Viewer) with JWT auth and backend-enforced RBAC guards across REST and WebSocket layers. Live metrics stream via Socket.io into Recharts, with dynamic filtering, CSV/PDF export, and full user-management CRUD.
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
-![Next.js](https://img.shields.io/badge/-Next.js-050816?style=flat-square&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-050816?style=flat-square&logo=nestjs&logoColor=E0234E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-050816?style=flat-square&logo=typescript&logoColor=3178C6)
-![Prisma](https://img.shields.io/badge/-Prisma-050816?style=flat-square&logo=prisma&logoColor=2D3748)
-![Socket.io](https://img.shields.io/badge/-Socket.io-050816?style=flat-square&logo=socketdotio&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-050816?style=flat-square&logo=supabase&logoColor=3ECF8E)
+<p>
+  <a href="https://github.com/razazaheer12/Real-Time-Analytics-Dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<br/>
+---
 
-**[🔗 View on GitHub](https://github.com/razazaheer12/Real-Time-Analytics-Dashboard)**
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<h3>🤖 PDF RAG Chatbot</h3>
+### 🤖 2. PDF RAG Chatbot
 
 An intelligent chatbot that lets you upload any PDF and have a real conversation with it — powered by RAG (Retrieval-Augmented Generation), pipeline using Pinecone Vector database — featuring real-time streaming responses, dynamic switching between multiple LLM models, and context-aware answers.
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
-![Next.js](https://img.shields.io/badge/-Next.js-050816?style=flat-square&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-050816?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Pinecone](https://img.shields.io/badge/-Pinecone-050816?style=flat-square&logo=pinecone&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-050816?style=flat-square&logo=langchain&logoColor=1C3C3C)
-![TypeScript](https://img.shields.io/badge/-TypeScript-050816?style=flat-square&logo=typescript&logoColor=3178C6)
+<p>
+  <a href="https://github.com/razazaheer12/Pdf-RAG-Chatbot" target="_blank">
+    <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<br/>
+---
 
-**[🔗 View on GitHub](https://github.com/razazaheer12/Pdf-RAG-Chatbot)**
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<h3>💬 Real-Time Chat App</h3>
+### 💬 3. Real-Time Chat App
 
 Real-Time Chat App is a modern, high-performance messaging platform that provides a WhatsApp Web-level real-time communication experience. Users can sign up, join topic-based rooms, send private direct messages, share images/files, track online status, and receive audio/browser notification alerts — all wrapped in a sleek, glassmorphism-inspired dark UI.
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
 
-![React](https://img.shields.io/badge/-React-050816?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-050816?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Socket.io](https://img.shields.io/badge/-Socket.io-050816?style=flat-square&logo=socketdotio&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-050816?style=flat-square&logo=mongodb&logoColor=47A248)
-![JWT](https://img.shields.io/badge/JWT-050816?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-
-**[🔗 View on GitHub](https://github.com/razazaheer12/Real-Time-Chat_App)** 
-**[🚀 Live Demo](https://real-time-chat-app-pi-lake.vercel.app/)**
-
-</td>
-</tr>
-</table>
+<p>
+  <a href="https://github.com/razazaheer12/Real-Time-Chat_App" target="_blank">
+    <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://real-time-chat-app-pi-lake.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+</p>
 
 <br/>
 
